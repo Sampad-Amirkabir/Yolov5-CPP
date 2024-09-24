@@ -2,6 +2,8 @@
 
 ***This example demonstrates how to perform inference using YOLOv5 models in C++ with OpenCV's DNN API.***
 
+This repository was originally created by [Matin Ghorbani](https://github.com/matin-ghorbani) and is available at this original [repository](https://github.com/matin-ghorbani/Carvana-Segmentation-UNet)
+
 ## Usage
 ### Clone the repository
 ```bash
